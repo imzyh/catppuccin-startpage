@@ -41,7 +41,7 @@ const default_configuration = {
   disabled: [],
   localIcons: true,
   localFonts: true,
-  fastlink: "https://www.perplexity.ai",
+  fastlink: "https://gemini.google.com/app",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -81,9 +81,9 @@ const default_configuration = {
               icon_color: palette.peach,
             },
             {
-              name: "sheets",
-              url: "https://docs.google.com/spreadsheets",
-              icon: "table",
+              name: "notion",
+              url: "www.notion.com",
+              icon: "brand-notion",
               icon_color: palette.red,
             },
             {
