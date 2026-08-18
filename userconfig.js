@@ -9,11 +9,11 @@ let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
 const default_configuration = {
   overrideStorage: true,
   temperature: {
-    location: "London",
+    location: "Makkah",
     scale: "C",
     // Optional OpenWeatherMap API key, get a free one at https://openweathermap.org/api
     // Leave empty to keep the placeholder and skip the network request
-    appId: "",
+    appId: "f50cafb91e5aaf715554b15a215685fe",
   },
   clock: {
     format: "k:i p",
@@ -22,7 +22,7 @@ const default_configuration = {
   additionalClocks: [
     {
       label: "UA",
-      timezone: "Europe/Kyiv",
+      timezone: "Asia/Riyadh",
       format: "h:i",
       icon_color: palette.peach,
     },
