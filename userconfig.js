@@ -75,9 +75,9 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "calendar",
-              url: "https://calendar.google.com",
-              icon: "calendar-filled",
+              name: "Blackboard",
+              url: "https://lms.uqu.edu.sa/ultra/course",
+              icon: "chalkboard-teacher",
               icon_color: palette.peach,
             },
             {
@@ -238,8 +238,8 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "X",
-              url: "https://www.facebook.com",
+              name: "x",
+              url: "https://x.com",
               icon: "brand-x",
               icon_color: palette.peach,
             },
