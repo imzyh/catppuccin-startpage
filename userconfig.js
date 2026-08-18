@@ -240,7 +240,7 @@ const default_configuration = {
             {
               name: "X",
               url: "https://www.facebook.com",
-              icon: "IconBrandX",
+              icon: "brand-x",
               icon_color: palette.peach,
             },
             {
