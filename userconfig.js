@@ -46,7 +46,7 @@ const default_configuration = {
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/banner_11.gif",
+      background_url: "src/img/banners/banner_09.gif",
       categories: [
         {
           name: "bookmarks",
@@ -238,9 +238,9 @@ const default_configuration = {
               icon_color: palette.green,
             },
             {
-              name: "facebook",
+              name: "X",
               url: "https://www.facebook.com",
-              icon: "brand-facebook",
+              icon: "IconBrandX",
               icon_color: palette.peach,
             },
             {
